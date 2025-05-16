@@ -1,1 +1,1 @@
-# apprise_assets
+# apprise_assets for changedetection.io
