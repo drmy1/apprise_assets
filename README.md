@@ -1,0 +1,1 @@
+# apprise_assets
